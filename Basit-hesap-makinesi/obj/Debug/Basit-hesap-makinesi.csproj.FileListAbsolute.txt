@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Rukiye\Basit-hesap-makinesi\Basit-hesap-makinesi\bin\Debug\Basit-hesap-makinesi.exe.config
+C:\Users\User\Desktop\Rukiye\Basit-hesap-makinesi\Basit-hesap-makinesi\bin\Debug\Basit-hesap-makinesi.exe
+C:\Users\User\Desktop\Rukiye\Basit-hesap-makinesi\Basit-hesap-makinesi\bin\Debug\Basit-hesap-makinesi.pdb
+C:\Users\User\Desktop\Rukiye\Basit-hesap-makinesi\Basit-hesap-makinesi\obj\Debug\Basit-hesap-makinesi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Rukiye\Basit-hesap-makinesi\Basit-hesap-makinesi\obj\Debug\Basit-hesap-makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Rukiye\Basit-hesap-makinesi\Basit-hesap-makinesi\obj\Debug\Basit_hesap_makinesi.Form1.resources
+C:\Users\User\Desktop\Rukiye\Basit-hesap-makinesi\Basit-hesap-makinesi\obj\Debug\Basit_hesap_makinesi.Properties.Resources.resources
+C:\Users\User\Desktop\Rukiye\Basit-hesap-makinesi\Basit-hesap-makinesi\obj\Debug\Basit-hesap-makinesi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Rukiye\Basit-hesap-makinesi\Basit-hesap-makinesi\obj\Debug\Basit-hesap-makinesi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Rukiye\Basit-hesap-makinesi\Basit-hesap-makinesi\obj\Debug\Basit-hesap-makinesi.exe
+C:\Users\User\Desktop\Rukiye\Basit-hesap-makinesi\Basit-hesap-makinesi\obj\Debug\Basit-hesap-makinesi.pdb
